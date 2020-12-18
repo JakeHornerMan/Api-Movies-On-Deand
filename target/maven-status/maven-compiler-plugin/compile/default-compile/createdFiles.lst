@@ -1,0 +1,11 @@
+com\mycompany\myblog\services\CustomersService.class
+com\mycompany\myblog\models\Accounts.class
+com\mycompany\myblog\models\Customers.class
+com\mycompany\myblog\databases\Database.class
+com\mycompany\myblog\models\Movies.class
+com\mycompany\myblog\services\MoviesService.class
+com\mycompany\myblog\models\Recommends.class
+com\mycompany\myblog\resources\CustomersResource.class
+com\mycompany\myblog\resources\MoviesResource.class
+com\mycompany\myblog\services\AccountsService.class
+com\mycompany\myblog\resources\AccountsResources.class
